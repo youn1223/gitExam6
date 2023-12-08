@@ -10,6 +10,7 @@ public class ListController {
 	 // 충돌 해결함
 	
 	// 4th 9:19 추가함
-	  
+	 // master 10:43
+	
 }
   
